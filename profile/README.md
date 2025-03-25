@@ -36,6 +36,10 @@ As part of our commitment to the tech community, we plan to open-source librarie
 
 Have questions or want to learn more? Reach out at [admin@scalium.tech](mailto:admin@scalium.tech).
 
+<br />
+
+Our X: https://x.com/scaliumtech
+
 ## License
 
 Content in this repository is licensed under the [MIT License](LICENSE).

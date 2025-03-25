@@ -39,7 +39,3 @@ Have questions or want to learn more? Reach out at [admin@scalium.tech](mailto:a
 ## License
 
 Content in this repository is licensed under the [MIT License](LICENSE).
-
----
-
-This README emphasizes ScalliumTech's identity as a product company and integrates a concise set of engineering principles derived from the top concepts of *12factors.net* and *"The Pragmatic Programmer,"* ensuring it aligns with your directives while remaining engaging and informative.

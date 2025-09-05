@@ -1,10 +1,10 @@
-# ScalliumTech
+# EqualByte
 
-Welcome to ScalliumTech's GitHub organization! We are a hardcore engineering company dedicated to building cutting-edge tools for generative AI (genAI). Our mission is to empower developers and businesses by creating innovative, efficient, and scalable solutions that push the boundaries of AI technology.
+Welcome to EqualByte's GitHub organization! We are a hardcore engineering company dedicated to building cutting-edge tools for generative AI (genAI). Our mission is to empower developers and businesses by creating innovative, efficient, and scalable solutions that push the boundaries of AI technology.
 
 ## About Us
 
-ScalliumTech is a product-driven company dedicated to creating innovative tools for generative AI. Unlike a consulting firm focused on custom client solutions, we channel our expertise into developing scalable, reliable, and user-centric software products. Our team of skilled engineers is committed to technical excellence, thriving on complex challenges to deliver high-quality tools that empower developers and businesses to harness the power of genAI.
+EqualByte is a product-driven company dedicated to creating innovative tools for generative AI. Unlike a consulting firm focused on custom client solutions, we channel our expertise into developing scalable, reliable, and user-centric software products. Our team of skilled engineers is committed to technical excellence, thriving on complex challenges to deliver high-quality tools that empower developers and businesses to harness the power of genAI.
 
 ## Our Focus
 
@@ -16,7 +16,7 @@ We are currently focused on creating tools that address key challenges in the ge
 
 ## Our Engineering Principles
 
-At ScalliumTech, our work is guided by a blend of proven engineering practices inspired by *12factors.net* and the philosophy of *"The Pragmatic Programmer."* Here are the principles that define our approach:
+At EqualByte, our work is guided by a blend of proven engineering practices inspired by *12factors.net* and the philosophy of *"The Pragmatic Programmer."* Here are the principles that define our approach:
 
 1. **Code Quality and Craftsmanship**: We take pride in our craft, writing clean, maintainable, and efficient code while continuously honing our skills.
 2. **Modular and Scalable Architecture**: Our applications are designed with explicit dependencies and modularity, enabling horizontal scaling and adaptability.
@@ -34,11 +34,9 @@ As part of our commitment to the tech community, we plan to open-source librarie
 
 ## Contact Us
 
-Have questions or want to learn more? Reach out at [admin@scalium.tech](mailto:admin@scalium.tech).
+Have questions or want to learn more? Reach out at [admin@equalbyte.io](mailto:admin@equalbyte.io).
 
 <br />
-
-Our X: https://x.com/scaliumtech
 
 ## License
 
